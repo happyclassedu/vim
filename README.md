@@ -1,7 +1,5 @@
 # 快乐课堂免费提供的VIM自动配置方案
 
-[![Build Status](https://travis-ci.org/happyclassedu/vim.png?branch=master)](https://travis-ci.org/happyclassedu/vim)
-
 ### 运行截图
 
 ![screenshot.png](screenshot.png)
